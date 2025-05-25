@@ -68,6 +68,7 @@ Key Features:
 - Detect branch types using predefined semantic stubs
 - Support for various branch naming conventions
 
+For a complete guide with detailed usage examples and advanced techniques, visit the `comprehensive documentation <https://semantic-branch.readthedocs.io/en/latest/>`_.
 
 .. _install:
 
